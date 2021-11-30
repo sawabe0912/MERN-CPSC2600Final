@@ -1,0 +1,20 @@
+.finalProject {
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+}
+
+.linkEl {
+	color: white;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	margin: 23px;
+}
+
+.toggleBtn {
+	margin-left: 60%;
+	margin-bottom: 5px;
+}
